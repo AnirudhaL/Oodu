@@ -1,4 +1,5 @@
 import pygame
+
 pygame.init()
 
 jump_music = pygame.mixer.Sound('Slam_Mid_02.wav')
